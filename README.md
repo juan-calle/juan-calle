@@ -3,8 +3,11 @@
 ### Hi there! <img src="./assets/Hi.gif" width="40px" />
 
 I'm Juan, a spanish frontend developer based in London 🇬🇧
+
 I ❤️ building beautiful things that work smoothly across different devices
+
 I try to follow best practices and write clean and mantainable code
+
 I'm also interested in HCI, interaction design and UX
 
 - 🔭 I’m currently working on my portfolio
