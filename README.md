@@ -4,7 +4,7 @@
 
 I'm Juan, a spanish frontend developer based in London 🇬🇧
 
-I ❤️ building beautiful things that work smoothly across different devices
+I ❤️  building beautiful things that work smoothly across different devices
 
 I try to follow best practices and write clean and mantainable code
 
