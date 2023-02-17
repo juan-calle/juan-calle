@@ -10,7 +10,7 @@ I try to follow best practices and write clean and mantainable code
 
 I'm also interested in HCI, interaction design and UX
 
-- 🔭 I’m currently working for @GamesWorkshop
+- 🔭 I’m currently working for [@GamesWorkshop](https://github.com/Games-Workshop)
 - 🌱 I’m currently learning in-depth Typescript with React
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about JavaScript and design patterns
